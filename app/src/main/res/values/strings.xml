@@ -1,0 +1,43 @@
+<resources>
+    <!-- shared -->
+    <string name="app_name">GetRandomUsers</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="close">Close</string>
+
+    <!-- random user list -->
+    <string name="search">Search</string>
+    <string name="to_begin_input_number_of_users">Please enter the number of users to search for in the box above</string>
+    <string name="no_user_found">No user found</string>
+
+    <!-- random user detail -->
+    <string name="contact_details">Contact Details</string>
+    <string name="other_details">Other Details</string>
+    <string name="birthday">Birthday</string>
+    <string name="nationality">Nationality</string>
+    <string name="nationality_au">Australian</string>
+    <string name="nationality_br">Brazilian</string>
+    <string name="nationality_ca">Canadian</string>
+    <string name="nationality_ch">Swiss</string>
+    <string name="nationality_de">German</string>
+    <string name="nationality_dk">Danish</string>
+    <string name="nationality_es">Spanish</string>
+    <string name="nationality_fi">Finnish</string>
+    <string name="nationality_fr">French</string>
+    <string name="nationality_gb">British</string>
+    <string name="nationality_ie">Irish</string>
+    <string name="nationality_ir">Iranian</string>
+    <string name="nationality_nl">Dutch</string>
+    <string name="nationality_nz">New Zealander</string>
+    <string name="nationality_tr">Turkish</string>
+    <string name="nationality_us">American</string>
+    <string name="unknown_nationality">Unknown nationality</string>
+
+    <!-- setting -->
+    <string name="setting">Setting</string>
+    <string name="theme">Theme</string>
+    <string name="system">System</string>"
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+    <string name="network">Network</string>
+    <string name="app_version">App Version</string>
+</resources>
